@@ -2,6 +2,15 @@
 
 This is the repository for the User-Store of the e-commerce platform. It features a seamless UI/UX, including filters and product recommendations, an operational shopping cart, and checkout functionality.
 
+## Table of Contents
+
+1. [Features](#features)
+2. [Tech Stack](#tech-stack)
+3. [Getting Started](#getting-started)
+4. [Deployment](#deployment)
+5. [Contribution](#contributing)
+6. [Contact](#contact)
+
 ## Features
 
 - User-friendly interface with filters and product recommendations
