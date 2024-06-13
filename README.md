@@ -1,6 +1,6 @@
 # Storefront
 
-This is the repository for the User-Store of the e-commerce platform. It features a seamless UI/UX, including filters and product recommendations, an operational shopping cart, and checkout functionality.
+This is the repository for the Frontend - Store of the e-commerce platform. It features a seamless UI/UX, including filters and product recommendations, an operational shopping cart, and checkout functionality.
 
 ## Table of Contents
 
